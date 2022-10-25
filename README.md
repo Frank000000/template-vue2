@@ -1,4 +1,4 @@
-# vue2-template
+# hello-world
 
 ## Project setup
 ```
